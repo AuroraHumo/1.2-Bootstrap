@@ -1,45 +1,50 @@
 # Ejercicio: Construir una landing page para practicar HTML y SASS
 
 ## Descripción
+
 - **Bootstrap 5**: Sistema de columnas + validaciones
 - **Media queries**
 
 ## Objetivos
+
 - Comprender y practicar SASS.
 - Aprender a crear webs con Bootstrap 5.
 - Entender el funcionamiento de los componentes de Bootstrap.
 - Realizar validaciones de formularios.
 
 ## Tecnologías Utilizadas
+
 - HTML
 - SASS
 - Bootstrap 5
 
 ## Requisitos Necesarios para Ejecutar el Proyecto
+
 - Node.js
 - npm (Node Package Manager)
 - Un navegador web moderno
 
 ## Instalación
+
 1. Clonar el repositorio:
-    ```bash
-    git clone <URL_DEL_REPOSITORIO>
-    ```
+   ```bash
+   git clone <URL_DEL_REPOSITORIO>
+   ```
 2. Navegar al directorio del proyecto:
-    ```bash
-    cd 1.2-Bootstrap
-    ```
+   ```bash
+   cd 1.2-Bootstrap
+   ```
 3. Instalar las dependencias ( "bootstrap": "5.3.3"):
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
-## Ejecución
+## Ejecución y despliegue
+
 1. Compilar los archivos SASS:
-    ```bash
-    npm run sass
-    ```
-2. Abrir el archivo `index.html` en un navegador web.
+   ```bash
+   npm run sass
+   ```
+2. Para abrir el archivo `index.html` en un navegador web: Instala la extensión Live Server en Visual Studio Code. Haz clic derecho en el archivo index.html y selecciona "Open with Live Server".
 
-## Despliegue
-Para desplegar el proyecto en un servidor web, simplemente copie todos los archivos del proyecto al directorio raíz del servidor.
+## Demo
