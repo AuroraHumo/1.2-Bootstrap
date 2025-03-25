@@ -28,7 +28,7 @@
 
 1. Clonar el repositorio:
    ```bash
-   git clone <URL_DEL_REPOSITORIO>
+   git clone <https://github.com/AuroraHumo/1.2-Bootstrap.git>
    ```
 2. Navegar al directorio del proyecto:
    ```bash

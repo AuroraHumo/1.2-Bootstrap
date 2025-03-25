@@ -12053,7 +12053,7 @@ p {
   }
   .hero {
     max-width: 80%;
-    display: block;
+    /* display: block; */
     margin: 0 auto;
   }
   .bookmark-text {
